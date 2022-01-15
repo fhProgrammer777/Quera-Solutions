@@ -1,10 +1,9 @@
 # Quera-Solutions #
----
 Reference Solutions for Competitive Programming on "Quera" , Iranian-Persian Platform.
 ---
 Don't forget to give me a star if you find this repository is useful for you. Thank you so much!😊
---- 
-### Contact ###
+---
+#### Contact ####
 Author : fateme Hosseini
 
 Email : fh_Programer777@yahoo.com
