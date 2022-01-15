@@ -1,8 +1,11 @@
-# Quera-Solutions #
-Reference Solutions for Competitive Programming on "Quera" , Iranian-Persian Platform.
----
-Don't forget to give me a star if you find this repository is useful for you. Thank you so much!😊
----
+### Quera-Solutions ###
+
+- Reference Solutions for Competitive Programming on **"Quera"** , Iranian-Persian Platform.
+- The questions are coded in **C** , **C++** , **C#** , **Python** .
+
+*Don't forget to give me a star if you find this repository is useful for you. Thank you so much!😊
+
+--------
 #### Contact ####
 Author : fateme Hosseini
 
